@@ -1,0 +1,3441 @@
+fileFormatVersion: 2
+guid: 59cc24f4b9c1f744ba328743df8bcff8
+AssetOrigin:
+  serializedVersion: 1
+  productId: 353510
+  packageName: Timbeaux's Cozy Kitchen Asset Pack
+  packageVersion: 1.0.0
+  assetPath: Assets/CozyKitchen/Sprites/DemoSceneSprites.png
+  uploadId: 856344
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DemoSceneSprites_48
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 251
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c6d95d3bce8d34a87d841faea80d35
+      internalID: -1740169144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_49
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 251
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ceb810d4b4c2e45a87b25bcfb43f26
+      internalID: -1766930270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_50
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 251
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1042bcd418387674a8c16ac3a037229a
+      internalID: -2033586924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_51
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 251
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edba28813e58bfe4d85d37a30660d9a6
+      internalID: 1619789084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_52
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 251
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e3368c07b613e4c981b98183da27a3
+      internalID: 1736282569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_53
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 251
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc474a71ff301ae42810df748419ecfb
+      internalID: -1814792002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_54
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 251
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f529929f990c64c4ab7788d614dd7810
+      internalID: 1682095321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_55
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 252
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195b05bb01e6cac489da475feafc0c32
+      internalID: 1121085331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_56
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 254
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0109de021759dc745b2b5c246f095ff9
+      internalID: 2034963918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_57
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 254
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5016c40f808c944fbe32deb36a62613
+      internalID: -1546997509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_102
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 161
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79724a1c0337b714bba66290aa86d747
+      internalID: -1115878210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_103
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 158
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499b2d764f89d0e4a9a6c2be52aaf586
+      internalID: 1680338951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_104
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 158
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60a0e3ef6088a649ab9c75cc9c1d0e7
+      internalID: 1495557575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_113
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 123
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f37b31e6519dd04e92dd0689381140b
+      internalID: -1403623001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_114
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 122
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eaa8ca1da1f1064fafd41f1265c659e
+      internalID: -101985599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_115
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 109
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fe6fc2e77c125408deb5d8bf1ead69
+      internalID: -823823120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_116
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 120
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3deb81ef612252e499ac07f66347e29c
+      internalID: 1476433682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_117
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 122
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af43fae4e1b6e44dbbd1f52ed1eb32a
+      internalID: 991948652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_118
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 124
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bac8a680c41e8f4ea0164b30bafeac4
+      internalID: 1135244923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_119
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 122
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a46b3fbcf63984b9784380c5d83704
+      internalID: 1894341355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 368
+        width: 65
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4a6989b8d7fc24ca05c2cb3a8dd367
+      internalID: 1155601679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 368
+        width: 28
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6a0cdfc93541044820694cfb9b6b26
+      internalID: -331951145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 367
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02530b76357ad034280f61077ef0fbf5
+      internalID: -1385531594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_3
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 395
+        width: 65
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8515b4edf65f76246a990b821345e031
+      internalID: 2039177752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_4
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 340
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25479364173dba1499c40373851ce86f
+      internalID: -1871377002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_5
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 369
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501d161b44e6fc54aaa70f23d458794e
+      internalID: -1885943006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_6
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 313
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9a04af4bd59ec4b83a9a88a5503fca
+      internalID: -7804242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 311
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eea07bf265182d4daa732a3c5651a87
+      internalID: -1384435049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_8
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 359
+        width: 105
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb8aab8a561c7f42bc809e6d1191bfa
+      internalID: 315910873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_9
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 333
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea674fb73051f44d90dd3be1450d06c
+      internalID: -639051930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_10
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 348
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aad76b05acad3e419e4717045e00fec
+      internalID: -1910722187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_11
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 348
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe2fb829f8745a489589b2db07d127f
+      internalID: 1899169786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_12
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 348
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f594a483bee2e6e4b8a68e8dc556cdd2
+      internalID: -1809542805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_13
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 348
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b5b226e1e61e64e8b233064a8a3572
+      internalID: -895573026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_14
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 311
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc71c508a56e074b9ca2666e2b2f4c5
+      internalID: -1192701982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_15
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 310
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f538ce631d164419e550562c4b600f
+      internalID: -1775064378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_16
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 287
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0abaf79d26b4341a4d038ea11c8f43
+      internalID: -331775867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_17
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 289
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540a46bb31a0d284aae78483b1625ba7
+      internalID: 892069723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_18
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3cee823ac1494e4eadd6ae210dee80e
+      internalID: -778118367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_19
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 290
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccb6db1eba4df94f88a6c2f773bd4c4
+      internalID: 340968076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_20
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 290
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90891866dbf551246b3e82dccb318a7b
+      internalID: 899906362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_21
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 292
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5dc4995e706224429cb4b6bbee11b05
+      internalID: -414938722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_22
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 292
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c0cbb00373bce478f64db70b3b6187
+      internalID: -1994121479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_23
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 292
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b90dc300f1df4b4cbc3774490180240
+      internalID: -1614106177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_24
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 292
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53eb65934a9e7034abce4c5e476adbe0
+      internalID: 7223131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_25
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 292
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d4a4d7cd1cb4b409c1187a3b0f94fa
+      internalID: 1677324416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_26
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 299
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9412d2926c55e1e4a80d93eb9882aa39
+      internalID: -2079878224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_27
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 291
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d374e65256a3527439d25ae0ae5c79e3
+      internalID: 1441601209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_28
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 291
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82e2941f564cf846b0f65bbad7b3607
+      internalID: -1333505465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_29
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 291
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a511d4be8030a7e4dac241000dfa3623
+      internalID: -316821981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_30
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 291
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ec03c3fe374ef4b8c6b48e4e4b33c6
+      internalID: -407286930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_31
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 290
+        width: 19
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e48dbf12857f8a45830d2aefd1bf573
+      internalID: 1795252031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_32
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 270
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8080472998d6443b087f4a8f40d11f
+      internalID: 191149239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_33
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 270
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924331ba373496c43a1009e66ba5d111
+      internalID: 1698434975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_34
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 270
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48c5d1566cab2242928110e60aa4fac
+      internalID: 1174698461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_35
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 270
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11192d9335a4fc3468a5c51cc5b9d1fd
+      internalID: 1912321324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_36
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 270
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c03a6bcc3e5d3c419e601e4863809d9
+      internalID: 107762644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_37
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 271
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0408496b251b944a2ba1653eb50f3a
+      internalID: -842053536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_38
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 271
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a2ac2598438084c8621e871eb766ea
+      internalID: 111441481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_39
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 271
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310a5e3e0485eb94699ad3efe3545ac8
+      internalID: 1670638727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_40
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 271
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f8a00c80b64994a842f0457ed08470
+      internalID: 1155102837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_41
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 271
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4be734423556fb409170104feef98c6
+      internalID: -2065109914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_42
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 271
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3caa89f4c01734ebdbd2e42c23e119
+      internalID: -577995519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_43
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 271
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00f1cab2ecd3654891bfed86cddbeb1
+      internalID: 1308012589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_44
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336398c0034282d45b17c20c4e387008
+      internalID: 1056890002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_45
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6818757cda04aa94387515ecd93b98eb
+      internalID: -478542935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_46
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 256
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8671469ed88d24489ae0dc9ccfdcc1c
+      internalID: 255028237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_47
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 256
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae062aeb06af49498018f03cfaace6c
+      internalID: -1000756815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_58
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 222
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad26042ed886644fa21d491181a3ae2
+      internalID: 332817389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_59
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 223
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0de7656f8b0404e8a41b55c2f82da3
+      internalID: 674360805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_60
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 223
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365fc5f4f8dedeb4ba284278fa11d109
+      internalID: 1606237896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_61
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 223
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fdd9b0797bbe4f40b70f714cfaa426d
+      internalID: -393597304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 221
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93d8aeeaca26e548916e7e759a7d9df
+      internalID: 446530006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_63
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 230
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eedc99310d3d254a8650ce2d765b695
+      internalID: 1754399625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_64
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 228
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33ed5acfb238d04382b59fa863c426c
+      internalID: -853692564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_65
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 228
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ae2527eb7b22b4d922be55efe5c2de
+      internalID: 2143863315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_66
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 237
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618daf832a4132b46a16afa43800399e
+      internalID: -1817405023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_67
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 228
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ddab7a3caeb4514299ace9675cb938e
+      internalID: 486515362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_68
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 228
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa3f183aee737943b8b75a80ac31899
+      internalID: -1902180127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_69
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 228
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e85ec9504c9c464e9379241149b0a78
+      internalID: 62103554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_70
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 228
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4a5dee93876d34593f772b192dd3b6
+      internalID: 2013368411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_71
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 228
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9d7fb470934cf4783543c81bc24ae2
+      internalID: -1712199654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_72
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 227
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c132eb9c886f14ea75ccbe7171511e
+      internalID: -1541842889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_73
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 219
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bd2592fd66bda4da4ba358931cb356
+      internalID: 931406838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_74
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 189
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ac8f3120e64c64f9339407bb729ce8
+      internalID: 1784401689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_75
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 210
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79cad5ba82f3eb4f848d6788ed476ff
+      internalID: 935485315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_76
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 207
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e3d129b933c2747a96749a059aa17a
+      internalID: 1752666301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_77
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 186
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ee0c0b3f600f24cb99611ec6cd1f40
+      internalID: -915399037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_78
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 188
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3adb4811f38d742945d9d8d926591a
+      internalID: 713770900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_79
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 184
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139c8ae473013bd4b91e4800e00389e5
+      internalID: -205379445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_80
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 189
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7441f1414fbb4428a016ceda3a8f76
+      internalID: -1892868074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_81
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 206
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f41bddb14fdf714a99b5d02e8dc1176
+      internalID: 1849788443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_82
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 206
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7380ec91db55d294c8c56ef2042df041
+      internalID: -1958351350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_83
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 189
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73eb75f961c98314a8e415b5779af7f6
+      internalID: 2137227232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_84
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 189
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25fcbed62075936458677b918ca9d575
+      internalID: -289970847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_85
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 204
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e67b8625e952a4db7d343bddd4cd26
+      internalID: 18554887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_86
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 186
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998999cd33528784eab97a942a18e813
+      internalID: 161825970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_87
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 214
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb39fe8a6229e2e4dadbbb3e60d130f1
+      internalID: -1959633851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_88
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 193
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de4c812c30e8e04eb5f3eef242933f4
+      internalID: 8804159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_89
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 193
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b139d1190d52ee459b999189727b94b
+      internalID: 1250214161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_90
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 189
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa2e2ee79e04d8498307291fc8a474d
+      internalID: 144835873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_91
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 189
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879db5ec8468f1a4ca5597dc02505368
+      internalID: 2011546284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_92
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 189
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08abb0650e10cc54a961623f5996c0ba
+      internalID: -125761113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_93
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 189
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61251655ac7efc4ca3706534f38e4b3
+      internalID: 1003912462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_94
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 136
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31a844aad388354cb19eda9d3b48ecf
+      internalID: 560676237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_95
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 136
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2998cc6d8d943174d9c0cd2fc16cc1cb
+      internalID: -2130293193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_96
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 136
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e081928cc143940a2847f262036eaf
+      internalID: -1174223870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_97
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 174
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5b9ae096f24d0499f6c55732b016a7
+      internalID: -360954620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_98
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 174
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2ce4c2a2968f6419de90155f258ab8
+      internalID: -1104573830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_99
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 172
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b07c507da389dc478730f27b3f53793
+      internalID: -1216799803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_100
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 172
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd5d6a941775044d98cfe7007e6f717
+      internalID: -5090308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_101
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 164
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254598c3bc4ebb2469a61ed1eedcfc74
+      internalID: -1921901999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_105
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 154
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e376b092446540046948a798c888154e
+      internalID: -1713908752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_106
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 137
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774bd5f429a098141b73566ff78f9c9d
+      internalID: 45757083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_107
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 149
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2cf3c60d7bc914a96275c428d14660
+      internalID: -749920045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_108
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 149
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8989a86e46eca284793dddd0f270d09a
+      internalID: -590361136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_109
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 149
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b50bb953224ac24597436dc90971813
+      internalID: -964372173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_110
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 151
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf0b355d4339c849b0b85b7166ff68d
+      internalID: 1137006943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_111
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 151
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f64989a7520f342808710cb731de83
+      internalID: -2075034755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_112
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 126
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba90191db580bb448760f4d7ee64666
+      internalID: 1767555977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_120
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 123
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b119486f431a21446a3cd774f6117a00
+      internalID: 1595841242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_121
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 126
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9678d857158654a9af7755f4dfee89
+      internalID: -1318655605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_122
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 125
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4aa3e177378e549999253804cd4fc6
+      internalID: -547724949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_123
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 132
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a2c6476839bc740961fd1cc536e26c
+      internalID: 1436205775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_124
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 132
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4469ba11ec45a4ba9c612445c66a1d
+      internalID: 1474874456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_125
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 110
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5deddc4965e19184eba29e99da76e1d4
+      internalID: 277911820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_126
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 110
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac35087a2775d14ea155343fc697102
+      internalID: -1731873205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_127
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 110
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ccd2ffd6c389174dbe3d9acf352c0d9
+      internalID: 1811621457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_128
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 107
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb091edbca36fc49806b47e99155795
+      internalID: -33831878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_129
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 107
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dae0d2ee70f165459775c9f1acf4c71
+      internalID: 1755683738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_130
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 101
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0522c62f72a8bf64a8dbc5f03d9d3c66
+      internalID: 2058817182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_131
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 101
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ee7dddfabd84046bb13155cfb329d4
+      internalID: -147057818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_132
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 101
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b33671ad55cd6247bf12f12ba4d3436
+      internalID: -1012688831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_133
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 101
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8176797cbe01aa949a18c3b7dd9539ed
+      internalID: -943707429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_134
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 101
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19fee0c3fee6d2648856a28a7d1c0cad
+      internalID: 256531405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_135
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 101
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0160dfa2347544e48a89419a72ab333a
+      internalID: -719122060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_136
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 101
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81adf1829c6bba64da7df6cfd271e28a
+      internalID: -675414275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_137
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 101
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07b76e88c853bd4f961d996d34d41e1
+      internalID: -1867368956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_138
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 104
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d32efe216c2f0409ca391a0055f4ae
+      internalID: -1922298568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_139
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 93
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594a688a8eea3c143b1e228fabbb85ae
+      internalID: -2124084956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_140
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 79
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535b4ae426dedf646b2ee67853a823ab
+      internalID: -98275400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_141
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 80
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f8c55991069a246b710618ae602301
+      internalID: -1768295651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_142
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 210
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.55615234, y: 0.4663086}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647205929ad71e348b7f472c9e5c83c8
+      internalID: -462973298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      DemoSceneSprites_0: 1155601679
+      DemoSceneSprites_1: -331951145
+      DemoSceneSprites_10: -1910722187
+      DemoSceneSprites_100: -5090308
+      DemoSceneSprites_101: -1921901999
+      DemoSceneSprites_102: -1115878210
+      DemoSceneSprites_103: 1680338951
+      DemoSceneSprites_104: 1495557575
+      DemoSceneSprites_105: -1713908752
+      DemoSceneSprites_106: 45757083
+      DemoSceneSprites_107: -749920045
+      DemoSceneSprites_108: -590361136
+      DemoSceneSprites_109: -964372173
+      DemoSceneSprites_11: 1899169786
+      DemoSceneSprites_110: 1137006943
+      DemoSceneSprites_111: -2075034755
+      DemoSceneSprites_112: 1767555977
+      DemoSceneSprites_113: -1403623001
+      DemoSceneSprites_114: -101985599
+      DemoSceneSprites_115: -823823120
+      DemoSceneSprites_116: 1476433682
+      DemoSceneSprites_117: 991948652
+      DemoSceneSprites_118: 1135244923
+      DemoSceneSprites_119: 1894341355
+      DemoSceneSprites_12: -1809542805
+      DemoSceneSprites_120: 1595841242
+      DemoSceneSprites_121: -1318655605
+      DemoSceneSprites_122: -547724949
+      DemoSceneSprites_123: 1436205775
+      DemoSceneSprites_124: 1474874456
+      DemoSceneSprites_125: 277911820
+      DemoSceneSprites_126: -1731873205
+      DemoSceneSprites_127: 1811621457
+      DemoSceneSprites_128: -33831878
+      DemoSceneSprites_129: 1755683738
+      DemoSceneSprites_13: -895573026
+      DemoSceneSprites_130: 2058817182
+      DemoSceneSprites_131: -147057818
+      DemoSceneSprites_132: -1012688831
+      DemoSceneSprites_133: -943707429
+      DemoSceneSprites_134: 256531405
+      DemoSceneSprites_135: -719122060
+      DemoSceneSprites_136: -675414275
+      DemoSceneSprites_137: -1867368956
+      DemoSceneSprites_138: -1922298568
+      DemoSceneSprites_139: -2124084956
+      DemoSceneSprites_14: -1192701982
+      DemoSceneSprites_140: -98275400
+      DemoSceneSprites_141: -1768295651
+      DemoSceneSprites_142: -462973298
+      DemoSceneSprites_15: -1775064378
+      DemoSceneSprites_16: -331775867
+      DemoSceneSprites_17: 892069723
+      DemoSceneSprites_18: -778118367
+      DemoSceneSprites_19: 340968076
+      DemoSceneSprites_2: -1385531594
+      DemoSceneSprites_20: 899906362
+      DemoSceneSprites_21: -414938722
+      DemoSceneSprites_22: -1994121479
+      DemoSceneSprites_23: -1614106177
+      DemoSceneSprites_24: 7223131
+      DemoSceneSprites_25: 1677324416
+      DemoSceneSprites_26: -2079878224
+      DemoSceneSprites_27: 1441601209
+      DemoSceneSprites_28: -1333505465
+      DemoSceneSprites_29: -316821981
+      DemoSceneSprites_3: 2039177752
+      DemoSceneSprites_30: -407286930
+      DemoSceneSprites_31: 1795252031
+      DemoSceneSprites_32: 191149239
+      DemoSceneSprites_33: 1698434975
+      DemoSceneSprites_34: 1174698461
+      DemoSceneSprites_35: 1912321324
+      DemoSceneSprites_36: 107762644
+      DemoSceneSprites_37: -842053536
+      DemoSceneSprites_38: 111441481
+      DemoSceneSprites_39: 1670638727
+      DemoSceneSprites_4: -1871377002
+      DemoSceneSprites_40: 1155102837
+      DemoSceneSprites_41: -2065109914
+      DemoSceneSprites_42: -577995519
+      DemoSceneSprites_43: 1308012589
+      DemoSceneSprites_44: 1056890002
+      DemoSceneSprites_45: -478542935
+      DemoSceneSprites_46: 255028237
+      DemoSceneSprites_47: -1000756815
+      DemoSceneSprites_48: -1740169144
+      DemoSceneSprites_49: -1766930270
+      DemoSceneSprites_5: -1885943006
+      DemoSceneSprites_50: -2033586924
+      DemoSceneSprites_51: 1619789084
+      DemoSceneSprites_52: 1736282569
+      DemoSceneSprites_53: -1814792002
+      DemoSceneSprites_54: 1682095321
+      DemoSceneSprites_55: 1121085331
+      DemoSceneSprites_56: 2034963918
+      DemoSceneSprites_57: -1546997509
+      DemoSceneSprites_58: 332817389
+      DemoSceneSprites_59: 674360805
+      DemoSceneSprites_6: -7804242
+      DemoSceneSprites_60: 1606237896
+      DemoSceneSprites_61: -393597304
+      DemoSceneSprites_62: 446530006
+      DemoSceneSprites_63: 1754399625
+      DemoSceneSprites_64: -853692564
+      DemoSceneSprites_65: 2143863315
+      DemoSceneSprites_66: -1817405023
+      DemoSceneSprites_67: 486515362
+      DemoSceneSprites_68: -1902180127
+      DemoSceneSprites_69: 62103554
+      DemoSceneSprites_7: -1384435049
+      DemoSceneSprites_70: 2013368411
+      DemoSceneSprites_71: -1712199654
+      DemoSceneSprites_72: -1541842889
+      DemoSceneSprites_73: 931406838
+      DemoSceneSprites_74: 1784401689
+      DemoSceneSprites_75: 935485315
+      DemoSceneSprites_76: 1752666301
+      DemoSceneSprites_77: -915399037
+      DemoSceneSprites_78: 713770900
+      DemoSceneSprites_79: -205379445
+      DemoSceneSprites_8: 315910873
+      DemoSceneSprites_80: -1892868074
+      DemoSceneSprites_81: 1849788443
+      DemoSceneSprites_82: -1958351350
+      DemoSceneSprites_83: 2137227232
+      DemoSceneSprites_84: -289970847
+      DemoSceneSprites_85: 18554887
+      DemoSceneSprites_86: 161825970
+      DemoSceneSprites_87: -1959633851
+      DemoSceneSprites_88: 8804159
+      DemoSceneSprites_89: 1250214161
+      DemoSceneSprites_9: -639051930
+      DemoSceneSprites_90: 144835873
+      DemoSceneSprites_91: 2011546284
+      DemoSceneSprites_92: -125761113
+      DemoSceneSprites_93: 1003912462
+      DemoSceneSprites_94: 560676237
+      DemoSceneSprites_95: -2130293193
+      DemoSceneSprites_96: -1174223870
+      DemoSceneSprites_97: -360954620
+      DemoSceneSprites_98: -1104573830
+      DemoSceneSprites_99: -1216799803
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

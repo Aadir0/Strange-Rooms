@@ -8,7 +8,6 @@ public class Entry : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Player"))
         {
-            Debug.Log("Player has entered the room!");
             SceneManager.LoadScene(1);
         }
     }

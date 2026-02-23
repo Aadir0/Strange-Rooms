@@ -18,19 +18,16 @@ public class InventoryManager : MonoBehaviour
         // Singleton pattern
         if (instance != null && instance != this)
         {
-            Debug.LogWarning("Multiple InventoryManager instances detected! Destroying duplicate.");
             Destroy(this);
         }
         else
         {
             instance = this;
-            Debug.Log("InventoryManager initialized successfully.");
         }
     }
 
     public void AddKey(KeyType keyType)
     {
-        Debug.Log($"InventoryManager: Adding {keyType}");
         
         if (keyType == KeyType.Key1)
         {
@@ -44,12 +41,7 @@ public class InventoryManager : MonoBehaviour
         // Notify UI to show the key
         if (KeyUIManager.instance != null)
         {
-            Debug.Log($"Calling KeyUIManager.ShowKey({keyType})");
             KeyUIManager.instance.ShowKey(keyType);
-        }
-        else
-        {
-            Debug.LogError("KeyUIManager instance is null! Make sure KeyUIManager is in the scene.");
         }
     }
 

@@ -13,8 +13,6 @@ public class LeverPulling : MonoBehaviour
 
     private void Update()
     {
-        if (hasBeenPulled) return; // Prevent multiple pulls
-        
         Collider2D playerCollider = Physics2D.OverlapCircle(transform.position, checkRadius, playerLayer);
         
         // Show/hide interact prompt based on player proximity
@@ -31,7 +29,14 @@ public class LeverPulling : MonoBehaviour
             
             if (Input.GetKeyDown(KeyCode.E))
             {
-                PullLever();
+                if (hasBeenPulled)
+                {
+                    pullagain();
+                }
+                else
+                {
+                    PullLever();
+                }
             }
         }
         else
@@ -58,8 +63,17 @@ public class LeverPulling : MonoBehaviour
             InteractManager.instance.HideInteractPrompt();
         }
         
-        Debug.Log("Lever pulled!");
         gameObjectToActivate.SetActive(true);
+    }
+
+    private void pullagain()
+    {
+        if (hasBeenPulled)
+        {
+            leverAnimator.SetTrigger("PullAgain");
+            gameObjectToActivate.SetActive(false);
+            hasBeenPulled = false;
+        }
     }
 
     private void OnDrawGizmosSelected()

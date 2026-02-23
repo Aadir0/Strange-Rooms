@@ -7,11 +7,20 @@ public class Trap : MonoBehaviour
     {
         anim = GetComponent<Animator>();
     }
+    
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.CompareTag("Player"))
+        if (collision.CompareTag("Player") || collision.CompareTag("Witch"))
         {
-            anim.SetTrigger("On");
+            anim.SetBool("On", true);
+        }
+    }
+    
+    private void OnTriggerExit2D(Collider2D collision)
+    {
+        if (collision.CompareTag("Player") || collision.CompareTag("Witch"))
+        {
+            anim.SetBool("On", false);
         }
     }
 }

@@ -59,21 +59,12 @@ public class ChestOpening : MonoBehaviour
             InteractManager.instance.HideInteractPrompt();
         }
         
-        Debug.Log("Chest opened!");
-        Debug.Log($"Gives Key: {givesKey}");
-        Debug.Log($"InventoryManager exists: {InventoryManager.instance != null}");
-        
         // Give key if this chest contains one
         if (givesKey)
         {
             if (InventoryManager.instance != null)
             {
-                Debug.Log($"Adding key: {keyType}");
                 InventoryManager.instance.AddKey(keyType);
-            }
-            else
-            {
-                Debug.LogError("InventoryManager instance is null! Make sure InventoryManager is in the scene.");
             }
         }
     }

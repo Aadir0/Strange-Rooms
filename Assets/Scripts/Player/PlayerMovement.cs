@@ -1,11 +1,10 @@
-using UnityEditor.Experimental.GraphView;
 using UnityEngine;
 using System.Collections;
 
 public class PlayerMovement : MonoBehaviour
 {
     public static PlayerMovement instance { get; private set;}
-    [SerializeField] private float speed;
+    public float speed;
     [SerializeField] private Animator anim;
     [SerializeField] private GameObject deathEffectPrefab;
     [SerializeField] private GameObject lanternGameObject; 
@@ -34,6 +33,15 @@ public class PlayerMovement : MonoBehaviour
     {
         float inputX = Input.GetAxisRaw("Horizontal");
         float inputY = Input.GetAxisRaw("Vertical");
+        
+        // Apply control swapping if the system is active
+        if (ControlSwapping.instance != null)
+        {
+            Vector2 swappedInput = ControlSwapping.instance.GetMovementInput();
+            inputX = swappedInput.x;
+            inputY = swappedInput.y;
+        }
+        
         moveDirection = new Vector2(inputX, inputY).normalized;
 
         anim.SetFloat("moveX", inputX);
@@ -65,24 +73,25 @@ public class PlayerMovement : MonoBehaviour
     {
         return facingRight;
     }
-    private void OnCollisionEnter2D(Collision2D collision)
+    private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.gameObject.CompareTag("Enemy"))
+        if (collision.CompareTag("Enemy"))
         {
             StartCoroutine(Die());
         }
     }
-    private IEnumerator Die()
+    public IEnumerator Die()
     {
         speed = 0f;
         
         if (deathEffectPrefab != null)
         {
+            yield return new WaitForSeconds(0.3f); // Small delay to ensure the player is still visible before the effect
             Instantiate(deathEffectPrefab, transform.position, Quaternion.identity);
             spriteRenderer.enabled = false; // Hide player sprite immediately
             lanternGameObject.SetActive(false); // Hide lantern immediately
         }
-        yield return new WaitForSeconds(1f);
+        yield return new WaitForSeconds(2f);
         
         UnityEngine.SceneManagement.SceneManager.LoadScene(UnityEngine.SceneManagement.SceneManager.GetActiveScene().buildIndex);
     }

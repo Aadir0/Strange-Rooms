@@ -195,8 +195,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 04c28311f97e72342b96b43dbd419c72, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerMovement
-  speed: 5
-  jumpForce: 5
+  speed: 3
   anim: {fileID: 1558541366283326906}
   deathEffectPrefab: {fileID: 5741463457341268226, guid: a9cf83b0ddbdca9439027ff8d2d7cc69,
     type: 3}
@@ -288,6 +287,11 @@ PrefabInstance:
     - target: {fileID: 7409103832880643304, guid: 2fb11375a5b657f4eabebddca80e322a,
         type: 3}
       propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7409103832880643304, guid: 2fb11375a5b657f4eabebddca80e322a,
+        type: 3}
+      propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []

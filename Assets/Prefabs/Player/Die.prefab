@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 8273830028195080549}
   - component: {fileID: 6034727480944455087}
   - component: {fileID: 5704884379355711135}
+  - component: {fileID: 4698198937989770669}
   m_Layer: 0
   m_Name: Die
   m_TagString: Untagged
@@ -115,3 +116,16 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &4698198937989770669
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5741463457341268226}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b12205e5fab00349b7a5ca54f97b3af, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Dieanimation
+  anim: {fileID: 5704884379355711135}
